@@ -1,0 +1,14 @@
+{
+  "academicsCurriculumGuide": {
+    "label": "Download Curriculum Guide",
+    "link": "/downloads/curriculum-guide.pdf"
+  },
+  "admissionsApplicationForm": {
+    "label": "Download Application Form",
+    "link": "/downloads/application-form.pdf"
+  },
+  "aboutPublicInfo": {
+    "label": "Download Public Info",
+    "link": "/downloads/public-info.pdf"
+  }
+}
