@@ -1,14 +1,14 @@
 {
   "academicsCurriculumGuide": {
     "label": "Download Curriculum Guide",
-    "link": "/downloads/curriculum-guide.pdf"
+    "link": "https://raw.githubusercontent.com/soumyadip-schl/assets-dav/main/data/Curriculum%20Guide.pdf"
   },
   "admissionsApplicationForm": {
     "label": "Download Application Form",
-    "link": "/downloads/application-form.pdf"
+    "link": "https://raw.githubusercontent.com/soumyadip-schl/assets-dav/main/data/Application%20Form.pdf"
   },
   "aboutPublicInfo": {
     "label": "Download Public Info",
-    "link": "/downloads/public-info.pdf"
+    "link": "https://raw.githubusercontent.com/soumyadip-schl/assets-dav/main/data/Public%20Disclosure.pdf"
   }
 }
